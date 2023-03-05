@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veli Kaan KONAKLI</h1>
 <h3 align="center">I worked on Windows forms and Web Forms for a while. Then I switched to mobile application development with Dart/Flutter. Currently, I am still working in mobile app development with Flutter.</h3>
 
-<img aling="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velikaankonakl&label=Profile%20views&color=0e75b6&style=flat" alt="velikaankonakl" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_konakli" target="blank"><img src="https://img.shields.io/twitter/follow/_konakli?logo=twitter&style=for-the-badge" alt="_konakli" /></a> </p>
@@ -24,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velikaankonakl&show_icons=true&locale=en" alt="velikaankonakl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velikaankonakl&" alt="velikaankonakl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velikaankonakl&" alt="velikaankonakl" /></p
