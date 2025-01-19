@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veli Kaan KONAKLI</h1>
-<h3 align="center">I worked on Windows forms and Web Forms for a while. Then I switched to mobile application development with Dart/Flutter. Currently, I am still working in mobile app development with Kotlin.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velikaankonakl&label=Profile%20views&color=0e75b6&style=flat" alt="velikaankonakl" /> </p>
 
